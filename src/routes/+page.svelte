@@ -87,7 +87,8 @@
 				</li>
 			</ul>
 		</nav>
-		<div class="logo"/>
+		<!-- <div class="logo"/> -->
+		 <a class="nav-link" href="https://github.com/nais"><img class="github" src="github-mark.svg" alt="nais github"></a>
 	</div>
 	<div class="content">
 		<div class="left">
@@ -291,5 +292,9 @@
 		--tw-backdrop-opacity: ;
 		--tw-backdrop-saturate: ;
 		--tw-backdrop-sepia: ;
+	}
+
+	.github {
+		height: 32px
 	}
 </style>
